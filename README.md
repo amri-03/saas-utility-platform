@@ -1,3 +1,3 @@
-﻿# SaaS Utility Platform
+﻿# SaaS Subscription Intelligence Platform
 
-A web application that solves one recurring problem for users through automation, organization, tracking, analytics, collaboration, or productivity.
+A smart dashboard that helps users monitor, analyze, and optimize their SaaS spending.
